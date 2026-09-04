@@ -1,0 +1,50 @@
+site_name: Labmaker Jataí
+site_description: Laboratório Maker do IFG Câmpus Jataí
+site_author: Laboratório Maker Jataí
+repo_url: https://github.com/labmaker-jatai
+repo_name: labmaker-jatai
+
+theme:
+  name: readthedocs # Usaremos o tema Material, o mais popular e moderno
+  # palette:
+  # Paleta de cores para modo claro e escuro
+  # - scheme: default
+  #   primary: indigo
+  #   accent: indigo
+  #   toggle:
+  #     icon: material/brightness-7
+  #     name: Mudar para modo escuro
+  # - scheme: slate
+  #   primary: indigo
+  #   accent: indigo
+  #   toggle:
+  #     icon: material/brightness-4
+  #     name: Mudar para modo claro
+  # features:
+  #   - navigation.instant # Navegação sem recarregar a página
+  #   - navigation.tracking # Rastreia a seção atual na URL
+  #   - navigation.top # Botão para voltar ao topo
+  #   - search.suggest # Sugestões na busca
+  #   - search.highlight # Destaque dos termos buscados
+
+# markdown_extensions:
+#   - admonition # Permite criar blocos de nota (ex: !!! note)
+#   - pymdownx.highlight # Para realce de código
+#   - pymdownx.superfences # Para blocos de código aninhados
+#   - attr_list # Permite adicionar atributos HTML a elementos Markdown
+
+# extra:
+#   social:
+#     - icon: fontawesome/brands/github
+#       link: https://github.com/labmaker-jatai
+#       name: GitHub do Laboratório Maker Jataí
+
+# Estrutura de navegação do site
+nav:
+  - Início: index.md
+  - Projetos:
+      - Visão Geral: projetos/index.md
+      - Projeto 1: projetos/projeto1.md
+      - Projeto 2: projetos/projeto2.md
+  - Sobre: sobre.md
+  - Como Participar: participar.md
