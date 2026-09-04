@@ -1,10 +1,20 @@
-# Bem-vindo ao Laboratório Maker do IFG Câmpus Jataí
+# Bem-vindo ao Laboratório Maker - Jataí
 
-Este é o espaço onde documentamos e compartilhamos nossos projetos, tutoriais e aprendizados. Aqui você encontrará desde os primeiros passos com Arduino até projetos mais complexos de impressão 3D e robótica.
+O Laboratório Maker da Universidade Federal de Jataí é um espaço colaborativo para criar, prototipar e inovar.
 
-## Últimos Projetos
-*   [Projeto 1: Nome do Projeto](projetos/projeto1.md)
-*   [Projeto 2: Nome do Projeto](projetos/projeto2.md)
+## O que oferecemos
 
-## Como Participar
-Quer fazer parte do laboratório? [Saiba como](participar.md).
+- **Impressão 3D**
+- **Corte a Laser**
+- **Eletrônica e Programação**
+- **Ferramentas manuais e elétricas**
+- **Espaço para projetos colaborativos**
+
+## Horário de Funcionamento
+
+- Segunda a Sexta: 8h - 18h
+- Sábado: 8h - 12h
+
+## Como participar
+
+Venha nos visitar ou entre em contato para agendar seu projeto!
