@@ -27,6 +27,8 @@ theme:
     - search.suggest
     - search.highlight
 
+use_directory_urls: false
+
 nav:
   - Início: index.md
   - Sobre: sobre.md
