@@ -1,0 +1,11 @@
+topnav:
+- title: Menu
+  items:
+    - title: Início
+      url: /
+    - title: Sobre o Laboratório
+      url: /sobre.html
+    - title: Projetos
+      url: /projetos.html
+    - title: Contato
+      url: /contato.html
