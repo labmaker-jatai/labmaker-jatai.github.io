@@ -3,7 +3,7 @@ title: Xadrez
 keywords: xadrez
 summary: This is just a sample topic...
 sidebar: jogos_sidebar
-permalink: xadrez.html
+permalink: /xadrez/
 folder: Jogos
 ---
 ## Regras do Xadrez
