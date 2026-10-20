@@ -4,20 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d60bf415b6fe9fcc",
+        "id": "5f8222d6eefd81f7",
         "type": "tabs",
         "children": [
           {
-            "id": "48b3b6f8232f5e8e",
+            "id": "57970dff2f682a93",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "canvas",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Untitled 4.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 4"
             }
           }
         ]
@@ -40,7 +44,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -98,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.base",
+                "file": "Teste de Nota.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,8 +191,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "48b3b6f8232f5e8e",
+  "active": "324ad1098afd1684",
   "lastOpenFiles": [
+    "2026-10-20.md",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Teste de Nota.md",
+    "vendor/bundle/ruby/3.3.0/gems/prism-1.9.0/README.md",
+    "Untitled 1.base",
+    "Untitled 1.canvas",
     "Untitled.base",
     "2026-10-01.md",
     "pages/product1/p1_sample1.md",
