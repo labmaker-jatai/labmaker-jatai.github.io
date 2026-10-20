@@ -2,11 +2,10 @@
 title: Xadrez
 keywords: xadrez
 summary: This is just a sample topic...
-sidebar: product1_sidebar
-permalink: p1_sample1.html
-folder: product1
+sidebar: jogos_sidebar
+permalink: xadrez.html
+folder: Jogos
 ---
-
 ## Regras do Xadrez
 
 Bem-vindo à página oficial das regras do Xadrez! Aqui você encontrará tudo o que precisa para aprender ou relembrar as regras deste milenar jogo de estratégia.

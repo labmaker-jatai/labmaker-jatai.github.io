@@ -1,2 +1,0 @@
-Nova nota
-# nova observação
