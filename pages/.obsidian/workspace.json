@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "right": {
     "id": "d9d5c2412d371d38",
@@ -188,8 +188,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "182670b8c7f1018d",
+  "active": "b466de4e2f6caccc",
   "lastOpenFiles": [
+    "noticias/news_archive.html",
+    "noticias/news.html",
+    "noticias",
+    "materiaisdidaticos/p2_sample9.md",
+    "materiaisdidaticos/p2_sample8.md",
+    "materiaisdidaticos/p2_sample7.md",
+    "materiaisdidaticos/p2_sample6.md",
+    "materiaisdidaticos/p2_sample5.md",
+    "materiaisdidaticos/p2_sample4.md",
+    "materiaisdidaticos/p2_sample3.md",
+    "materiaisdidaticos/p2_sample2.md",
+    "materiaisdidaticos/p2_sample14.md",
+    "materiaisdidaticos/p2_sample13.md",
+    "materiaisdidaticos/p2_sample12.md",
+    "materiaisdidaticos/p2_sample11.md",
+    "materiaisdidaticos/p2_sample10.md",
+    "materiaisdidaticos/p2_sample1.md",
+    "materiaisdidaticos/p2_landing_page.html",
+    "materiaisdidaticos",
     "mydoc/mydoc_sidebar_navigation.md",
     "Pasted image 20261020200608.png",
     "jogos/xadrez.md",
@@ -202,15 +221,7 @@
     "mydoc/mydoc_special_layouts.md",
     "mydoc/mydoc_pages.md",
     "product2/p2_sample1.md",
-    "jogos/p1_sample2.md",
-    "mydoc/mydoc_about.md",
-    "jogos matemáticos/xadrez.md",
-    "jogos/p1_sample6.md",
-    "jogos/p1_sample5.md",
-    "jogos/p1_sample4.md",
-    "jogos/p1_sample3.md",
     "jogos/p1_landing_page.html",
-    "jogos",
-    "mydoc/mydoc_about_ruby_gems_bundler.md"
+    "jogos"
   ]
 }
