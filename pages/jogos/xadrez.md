@@ -16,6 +16,8 @@ Bem-vindo à página oficial das regras do Xadrez! Aqui você encontrará tudo o
 
 O Xadrez é um jogo de tabuleiro para dois jogadores, disputado em um tabuleiro quadrado de **8x8 casas** (64 casas no total), alternando entre cores claras e escuras. O objetivo é dar **xeque-mate** no rei adversário.
 
+![[Pasted image 20261020200608.png]]
+
 ---
 
 ## Objetivo do Jogo
