@@ -99,8 +99,8 @@ defaults:
 sidebars:
   - home_sidebar
   - mydoc_sidebar
-  - product1_sidebar
-  - product2_sidebar
+  - jogos
+  - materiaisdidáticos
   - other
 
 description: "Laboratório Maker Jataí — espaço de inovação, fabricação digital, educação e desenvolvimento de recursos pedagógicos no IFG Câmpus Jataí."

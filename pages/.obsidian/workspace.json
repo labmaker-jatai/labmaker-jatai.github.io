@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mydoc/mydoc_sidebar_navigation.md",
+                "file": "jogos/xadrez.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mydoc_sidebar_navigation"
+              "title": "xadrez"
             }
           }
         ]
@@ -190,8 +190,8 @@
   },
   "active": "182670b8c7f1018d",
   "lastOpenFiles": [
-    "Pasted image 20261020200608.png",
     "mydoc/mydoc_sidebar_navigation.md",
+    "Pasted image 20261020200608.png",
     "jogos/xadrez.md",
     "jogos/p1_sample7.md",
     "tags/tag_collaboration.md",

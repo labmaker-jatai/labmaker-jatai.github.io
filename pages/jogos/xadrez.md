@@ -1,14 +1,12 @@
 ---
 title: Xadrez
 keywords: xadrez
-summary: This is just a sample topic...
+summary: O xadrez é um dos jogos de tabuleiro mais tradicionais e estratégicos do mundo. Este guia apresenta as regras essenciais para jogar uma partida completa.
 sidebar: jogos_sidebar
 permalink: /xadrez/
 folder: Jogos
 ---
 # Regras do Xadrez
-
-O xadrez é um dos jogos de tabuleiro mais tradicionais e estratégicos do mundo. Este guia apresenta as regras essenciais para jogar uma partida completa.
 
 ## O Tabuleiro e as Peças
 
